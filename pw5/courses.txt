@@ -1,2 +1,0 @@
-ict1.01,Intro informatic,4
-Mat1.01,Linear,4
